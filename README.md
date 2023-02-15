@@ -36,14 +36,6 @@ My project is a website where you can buy products like mobile phones, tablets, 
 
 
 
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/tranhuuvinh1109/FoodApp.git
-```
-
 
 
 ## Admin Page Dashboard
